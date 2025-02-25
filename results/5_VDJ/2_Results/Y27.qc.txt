@@ -1,0 +1,9 @@
+
+  Successfully aligned reads:                     96.10% [OK]
+  Off target (non TCR/IG) reads:                  0.085% [OK]
+  Reads with no V or J hits:                      3.81%  [OK]
+  Reads used in clonotypes:                       85.13% [WARN]
+  Alignments that do not cover CDR3:              0.0%   [OK]
+  Alignments dropped due to low sequence quality: 0.0%   [OK]
+  Clones dropped in post-filtering:               0.0%   [OK]
+  Alignments dropped in clones post-filtering:    0.0%   [OK]

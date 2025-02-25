@@ -1,0 +1,145 @@
+Analysis date: Fri Nov 03 12:01:42 CST 2023
+Input file(s): ./results/5_VDJ/2_Results/Y29.vdjca
+Output file(s): ./results/5_VDJ/2_Results/Y29.clns
+Version: 4.4.2; built=Sun Jul 30 16:17:59 CST 2023; rev=cd7ea52e83; lib=repseqio.v3.0.1
+Command line arguments: assemble --report ./results/5_VDJ/2_Results/Y29.assemble.report.txt --json-report ./results/5_VDJ/2_Results/Y29.assemble.report.json ./results/5_VDJ/2_Results/Y29.vdjca ./results/5_VDJ/2_Results/Y29.clns
+Analysis time: 1.44s
+Final clonotype count: 323
+Reads used in clonotypes, percent of total: 7897 (84.85%)
+Average number of reads per clonotype: 24.45
+Reads dropped due to the lack of a clone sequence, percent of total: 0 (0%)
+Reads dropped due to a too short clonal sequence, percent of total: 0 (0%)
+Reads dropped due to low quality, percent of total: 0 (0%)
+Reads dropped due to failed mapping, percent of total: 0 (0%)
+Reads dropped with low quality clones, percent of total: 0 (0%)
+Aligned reads processed: 8895
+Reads used in clonotypes before clustering, percent of total: 8895 (95.57%)
+Number of reads used as a core, percent of used: 8895 (100%)
+Mapped low quality reads, percent of used: 0 (0%)
+Reads clustered in PCR error correction, percent of used: 998 (11.22%)
+Reads pre-clustered due to the similar VJC-lists, percent of used: 0 (0%)
+Clonotypes dropped as low quality: 0
+Clonotypes eliminated by PCR error correction: 464
+Clonotypes pre-clustered due to the similar VJC-lists: 0
+Clones dropped in post filtering: 0 (0%)
+Reads dropped in post filtering: 0.0 (0%)
+Alignments filtered by tag prefix: 0 (0%)
+IGH chains: 323 (100%)
+IGH non-functional: 0 (0%)
+======================================
+Analysis date: Fri Nov 03 14:56:09 CST 2023
+Input file(s): ./results/5_VDJ/2_Results/Y29.vdjca
+Output file(s): ./results/5_VDJ/2_Results/Y29.clns
+Version: 4.4.2; built=Sun Jul 30 16:17:59 CST 2023; rev=cd7ea52e83; lib=repseqio.v3.0.1
+Command line arguments: assemble --report ./results/5_VDJ/2_Results/Y29.assemble.report.txt --json-report ./results/5_VDJ/2_Results/Y29.assemble.report.json ./results/5_VDJ/2_Results/Y29.vdjca ./results/5_VDJ/2_Results/Y29.clns
+Analysis time: 3.12s
+Final clonotype count: 323
+Reads used in clonotypes, percent of total: 7897 (84.85%)
+Average number of reads per clonotype: 24.45
+Reads dropped due to the lack of a clone sequence, percent of total: 0 (0%)
+Reads dropped due to a too short clonal sequence, percent of total: 0 (0%)
+Reads dropped due to low quality, percent of total: 0 (0%)
+Reads dropped due to failed mapping, percent of total: 0 (0%)
+Reads dropped with low quality clones, percent of total: 0 (0%)
+Aligned reads processed: 8895
+Reads used in clonotypes before clustering, percent of total: 8895 (95.57%)
+Number of reads used as a core, percent of used: 8895 (100%)
+Mapped low quality reads, percent of used: 0 (0%)
+Reads clustered in PCR error correction, percent of used: 998 (11.22%)
+Reads pre-clustered due to the similar VJC-lists, percent of used: 0 (0%)
+Clonotypes dropped as low quality: 0
+Clonotypes eliminated by PCR error correction: 464
+Clonotypes pre-clustered due to the similar VJC-lists: 0
+Clones dropped in post filtering: 0 (0%)
+Reads dropped in post filtering: 0.0 (0%)
+Alignments filtered by tag prefix: 0 (0%)
+IGH chains: 323 (100%)
+IGH non-functional: 0 (0%)
+======================================
+Analysis date: Fri Nov 03 15:12:00 CST 2023
+Input file(s): ./results/5_VDJ/2_Results/Y29.vdjca
+Output file(s): ./results/5_VDJ/2_Results/Y29.clns
+Version: 4.4.2; built=Sun Jul 30 16:17:59 CST 2023; rev=cd7ea52e83; lib=repseqio.v3.0.1
+Command line arguments: assemble --report ./results/5_VDJ/2_Results/Y29.assemble.report.txt --json-report ./results/5_VDJ/2_Results/Y29.assemble.report.json ./results/5_VDJ/2_Results/Y29.vdjca ./results/5_VDJ/2_Results/Y29.clns
+Analysis time: 2.47s
+Final clonotype count: 323
+Reads used in clonotypes, percent of total: 7897 (84.85%)
+Average number of reads per clonotype: 24.45
+Reads dropped due to the lack of a clone sequence, percent of total: 0 (0%)
+Reads dropped due to a too short clonal sequence, percent of total: 0 (0%)
+Reads dropped due to low quality, percent of total: 0 (0%)
+Reads dropped due to failed mapping, percent of total: 0 (0%)
+Reads dropped with low quality clones, percent of total: 0 (0%)
+Aligned reads processed: 8895
+Reads used in clonotypes before clustering, percent of total: 8895 (95.57%)
+Number of reads used as a core, percent of used: 8895 (100%)
+Mapped low quality reads, percent of used: 0 (0%)
+Reads clustered in PCR error correction, percent of used: 998 (11.22%)
+Reads pre-clustered due to the similar VJC-lists, percent of used: 0 (0%)
+Clonotypes dropped as low quality: 0
+Clonotypes eliminated by PCR error correction: 464
+Clonotypes pre-clustered due to the similar VJC-lists: 0
+Clones dropped in post filtering: 0 (0%)
+Reads dropped in post filtering: 0.0 (0%)
+Alignments filtered by tag prefix: 0 (0%)
+IGH chains: 323 (100%)
+IGH non-functional: 0 (0%)
+======================================
+Analysis date: Sat Nov 04 00:31:17 CST 2023
+Input file(s): ./results/5_VDJ/2_Results/Y29.vdjca
+Output file(s): ./results/5_VDJ/2_Results/Y29.clns
+Version: 4.4.2; built=Sun Jul 30 16:17:59 CST 2023; rev=cd7ea52e83; lib=repseqio.v3.0.1
+Command line arguments: assemble --report ./results/5_VDJ/2_Results/Y29.assemble.report.txt --json-report ./results/5_VDJ/2_Results/Y29.assemble.report.json ./results/5_VDJ/2_Results/Y29.vdjca ./results/5_VDJ/2_Results/Y29.clns
+Analysis time: 1.59s
+Final clonotype count: 323
+Reads used in clonotypes, percent of total: 7897 (84.85%)
+Average number of reads per clonotype: 24.45
+Reads dropped due to the lack of a clone sequence, percent of total: 0 (0%)
+Reads dropped due to a too short clonal sequence, percent of total: 0 (0%)
+Reads dropped due to low quality, percent of total: 0 (0%)
+Reads dropped due to failed mapping, percent of total: 0 (0%)
+Reads dropped with low quality clones, percent of total: 0 (0%)
+Aligned reads processed: 8895
+Reads used in clonotypes before clustering, percent of total: 8895 (95.57%)
+Number of reads used as a core, percent of used: 8895 (100%)
+Mapped low quality reads, percent of used: 0 (0%)
+Reads clustered in PCR error correction, percent of used: 998 (11.22%)
+Reads pre-clustered due to the similar VJC-lists, percent of used: 0 (0%)
+Clonotypes dropped as low quality: 0
+Clonotypes eliminated by PCR error correction: 464
+Clonotypes pre-clustered due to the similar VJC-lists: 0
+Clones dropped in post filtering: 0 (0%)
+Reads dropped in post filtering: 0.0 (0%)
+Alignments filtered by tag prefix: 0 (0%)
+IGH chains: 323 (100%)
+IGH non-functional: 0 (0%)
+======================================
+Analysis date: Sat Nov 04 01:37:46 CST 2023
+Input file(s): ./results/5_VDJ/2_Results/Y29.vdjca
+Output file(s): ./results/5_VDJ/2_Results/Y29.clns
+Version: 4.4.2; built=Sun Jul 30 16:17:59 CST 2023; rev=cd7ea52e83; lib=repseqio.v3.0.1
+Command line arguments: assemble --report ./results/5_VDJ/2_Results/Y29.assemble.report.txt --json-report ./results/5_VDJ/2_Results/Y29.assemble.report.json ./results/5_VDJ/2_Results/Y29.vdjca ./results/5_VDJ/2_Results/Y29.clns
+Analysis time: 1.65s
+Final clonotype count: 323
+Reads used in clonotypes, percent of total: 7897 (84.85%)
+Average number of reads per clonotype: 24.45
+Reads dropped due to the lack of a clone sequence, percent of total: 0 (0%)
+Reads dropped due to a too short clonal sequence, percent of total: 0 (0%)
+Reads dropped due to low quality, percent of total: 0 (0%)
+Reads dropped due to failed mapping, percent of total: 0 (0%)
+Reads dropped with low quality clones, percent of total: 0 (0%)
+Aligned reads processed: 8895
+Reads used in clonotypes before clustering, percent of total: 8895 (95.57%)
+Number of reads used as a core, percent of used: 8895 (100%)
+Mapped low quality reads, percent of used: 0 (0%)
+Reads clustered in PCR error correction, percent of used: 998 (11.22%)
+Reads pre-clustered due to the similar VJC-lists, percent of used: 0 (0%)
+Clonotypes dropped as low quality: 0
+Clonotypes eliminated by PCR error correction: 464
+Clonotypes pre-clustered due to the similar VJC-lists: 0
+Clones dropped in post filtering: 0 (0%)
+Reads dropped in post filtering: 0.0 (0%)
+Alignments filtered by tag prefix: 0 (0%)
+IGH chains: 323 (100%)
+IGH non-functional: 0 (0%)
+======================================

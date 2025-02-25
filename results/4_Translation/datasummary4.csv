@@ -1,0 +1,4 @@
+sample,DNA(merged_reads),Protein,Unique_DNA,Unique_Protein,Unique_Antibody(with_CDR3)
+Y27_raw,17252,11746,14525,6668,6668
+Y28_raw,8712,5651,7430,3528,3528
+Y29_raw,17218,9307,14995,5620,5620
